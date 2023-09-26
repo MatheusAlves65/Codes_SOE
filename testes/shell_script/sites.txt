@@ -1,0 +1,3 @@
+https://github.com/DiogoCaetanoGarcia/Sistemas_Embarcados/raw/master/Refs/Command_line_cheatsheet.pdf
+https://github.com/DiogoCaetanoGarcia/Sistemas_Embarcados/raw/master/Refs/Dicas%20para%20projetos.pdf
+https://github.com/DiogoCaetanoGarcia/Sistemas_Embarcados/raw/master/Refs/Dicas_de_escrita.pdf
