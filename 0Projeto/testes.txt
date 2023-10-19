@@ -1,0 +1,12 @@
+Rodar os seguintes códigos
+
+
+./controlePortao.out
+
+./sensor.out
+
+python mediapipe/examples/object_detection/raspberry_pi/detect.py
+
+cd openalrpr && alpr -c br ./placa-mercosul.png
+
+
