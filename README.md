@@ -1,2 +1,14 @@
 # Codes_SOE
-This is my repository of my codes about my class. Mainly of codes is about Embedded Operecional Sistems
+Repositório a respeito do Projeto final de SOE (Sistemas Operacionais Embarcados).
+
+Grupo:
+
+Matheus Alves do Nascimento
+
+Gabriel Roberto Lima 
+
+Emails para contato:
+
+gabrielrobertolima@gmail.com
+
+alves.nascimento@aluno.br
