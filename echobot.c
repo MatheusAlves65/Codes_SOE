@@ -34,7 +34,9 @@ void removerLinhaArquivo(char *nomeArquivo, const char *linhaParaRemover, int ta
         printf("%s\n",linha);
         if (strcmp(linha, linhaParaRemover) != 0) {
             // Se não for, escreve no arquivo temporário
-            fprintf(fpTemp, "%s", linha);
+            if(strcmp(linha, "\n") != 0){
+            	fprintf(fpTemp, "%s\n", linha);
+            }
         }
     }
 
@@ -169,6 +171,7 @@ int main(int argc, char *argv[])
 		        }            		
 			removerLinhaArquivo("placas.lp", placa, 8);
 			snprintf(str, SIZE_OF_ARRAY(str), "Placa %s removida com sucesso", placa);
+			funcao = 0;
 			break;
 		case 3: 
             	    sleep(1);
